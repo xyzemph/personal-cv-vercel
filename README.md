@@ -4,15 +4,12 @@ A calm, minimal personal CV and portfolio website for **Xyze G. Mantalaba**, an 
 
 ## Live Website
 
-**ADD AFTER DEPLOYMENT** (paste your public Vercel URL here)
+https://personal-cv-vercel.vercel.app
 
-> Note: `https://vercel.com/xy-m` is the Vercel dashboard, not the deployed site.
 
 ## GitHub Repository
 
-https://github.com/xyzemph/IT415-Tasks (app is in the `personal-cv/` folder)
-
-If you move this project to its own repository, update this link.
+https://github.com/xyzemph/personal-cv-vercel
 
 ## Author
 
@@ -68,11 +65,3 @@ personal-cv/
     ├── hooks/
     └── components/
 ```
-
-## Deployment (Vercel)
-
-1. Push the project to GitHub.
-2. In Vercel, choose **Add New → Project** and import the repository.
-3. If the app is inside `personal-cv/` of IT415-Tasks, set **Root Directory** to `personal-cv`.
-4. Framework preset: **Vite** (build command `npm run build`, output `dist`).
-5. Deploy, then paste the live URL into the "Live Website" section above.
