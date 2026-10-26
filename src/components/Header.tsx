@@ -22,11 +22,11 @@ export default function Header() {
     <header className="site-header">
       <div className="container header-inner">
         <a href="#top" className="brand" aria-label={`${profile.name}, back to top`}>
-          <span className="brand-mark" aria-hidden="true">
+          <span className="brand-mark">
             <img
-              src="/images/profile.jpg"
+              src="/images/logoprofile.jpg"
               alt="Xyze Mantalaba"
-              className="header-profile"
+              className="navbar-profile"
             />
           </span>
           <span className="brand-name">{profile.firstName}</span>
